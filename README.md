@@ -7,8 +7,8 @@
   </a>
 </p>
 
-- 👨‍🎓 I’m a Computer Engineering student at Federal University of Paraíba (UFPB)
-- 🌱 I’m currently learning IOS development with Swift
+- I’m a Computer Engineering student at Federal University of Paraíba (UFPB)
+- I’m currently learning IOS development with Swift
 
 <p align = "center">
   <a href = "https://www.instagram.com/leo_chianca/">
